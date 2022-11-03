@@ -1,4 +1,1 @@
-* Mountain AC
-* Fan y Big
-* Penygader
-
+Mountain AC
